@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and made using the openweather API https://openweathermap.org/
+
+Type the name of the city to find out the weather there
 
 ## Available Scripts
 
